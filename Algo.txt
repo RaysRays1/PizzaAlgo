@@ -1,2 +1,5 @@
 order pizza
 pay for pizza
+Pickup pizza
+feed the kids 
+and clean 
